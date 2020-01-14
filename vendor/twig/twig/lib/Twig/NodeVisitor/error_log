@@ -1,0 +1,2 @@
+[16-Dec-2019 05:13:23 UTC] PHP Fatal error:  Interface 'Twig_NodeVisitorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/NodeVisitor/Optimizer.php on line 23
+[19-Dec-2019 06:03:29 UTC] PHP Fatal error:  Interface 'Twig_NodeVisitorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/NodeVisitor/Sandbox.php on line 18

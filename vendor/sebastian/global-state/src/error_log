@@ -1,0 +1,2 @@
+[24-Nov-2019 20:59:03 UTC] PHP Fatal error:  Interface 'SebastianBergmann\GlobalState\Exception' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/global-state/src/RuntimeException.php on line 16
+[17-Dec-2019 05:05:06 UTC] PHP Fatal error:  Interface 'SebastianBergmann\GlobalState\Exception' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/global-state/src/RuntimeException.php on line 16

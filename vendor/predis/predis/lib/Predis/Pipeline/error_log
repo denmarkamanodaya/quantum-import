@@ -1,0 +1,34 @@
+[19-Oct-2019 02:56:10 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:56:10 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:10 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:10 UTC] PHP Fatal error:  Interface 'Predis\Pipeline\PipelineExecutorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Pipeline/FireAndForgetExecutor.php on line 25
+[19-Oct-2019 02:56:15 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:56:15 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:15 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:15 UTC] PHP Fatal error:  Interface 'Predis\Pipeline\PipelineExecutorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Pipeline/MultiExecExecutor.php on line 33
+[19-Oct-2019 02:56:21 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:56:21 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:21 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:21 UTC] PHP Fatal error:  Interface 'Predis\BasicClientInterface' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Pipeline/PipelineContext.php on line 27
+[19-Oct-2019 02:56:29 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:56:29 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:29 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:35 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:56:35 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:35 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:35 UTC] PHP Fatal error:  Interface 'Predis\Pipeline\PipelineExecutorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Pipeline/SafeClusterExecutor.php on line 26
+[19-Oct-2019 02:56:42 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:56:42 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:42 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:42 UTC] PHP Fatal error:  Interface 'Predis\Pipeline\PipelineExecutorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Pipeline/SafeExecutor.php on line 25
+[19-Oct-2019 02:56:49 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:56:49 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:49 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:56:49 UTC] PHP Fatal error:  Interface 'Predis\Pipeline\PipelineExecutorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Pipeline/StandardExecutor.php on line 31

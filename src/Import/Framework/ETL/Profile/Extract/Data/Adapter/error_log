@@ -1,0 +1,4 @@
+[19-Dec-2019 07:15:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Framework\ETL\Profile\Extract\Data\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Extract/Data/Adapter/Omni.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Extract/Data/Adapter/Omni.php on line 18

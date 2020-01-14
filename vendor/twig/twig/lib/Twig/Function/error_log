@@ -1,0 +1,5 @@
+[04-Dec-2019 12:56:57 UTC] PHP Fatal error:  Class 'Twig_Function' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Function/Node.php on line 21
+[07-Dec-2019 09:05:11 UTC] PHP Fatal error:  Class 'Twig_Function' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Function/Method.php on line 22
+[12-Dec-2019 10:05:44 UTC] PHP Fatal error:  Class 'Twig_Function' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Function/Function.php on line 22
+[15-Dec-2019 20:04:17 UTC] PHP Fatal error:  Class 'Twig_Function' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Function/Node.php on line 21
+[18-Dec-2019 15:52:57 UTC] PHP Fatal error:  Class 'Twig_Function' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Function/Method.php on line 22

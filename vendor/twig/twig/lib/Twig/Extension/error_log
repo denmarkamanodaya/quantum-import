@@ -1,0 +1,7 @@
+[14-Dec-2019 20:05:54 UTC] PHP Fatal error:  Class 'Twig_Extension' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Extension/Core.php on line 17
+[16-Dec-2019 15:15:02 UTC] PHP Fatal error:  Class 'Twig_Extension' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Extension/StringLoader.php on line 12
+[16-Dec-2019 20:11:14 UTC] PHP Fatal error:  Class 'Twig_Extension' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Extension/Staging.php on line 20
+[19-Dec-2019 08:14:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig_Extension' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Extension/Optimizer.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Extension/Optimizer.php on line 11

@@ -1,0 +1,122 @@
+[28-Nov-2019 03:57:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/DataProviderDependencyTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/DataProviderDependencyTest.php on line 3
+[29-Nov-2019 16:57:34 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/ClonedDependencyTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/ClonedDependencyTest.php on line 2
+[29-Nov-2019 19:12:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BankAccountTest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BankAccountTest.php on line 15
+[30-Nov-2019 04:11:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNotProtectedTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNotProtectedTest.php on line 2
+[30-Nov-2019 16:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageClassExtendedTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageClassExtendedTest.php on line 2
+[01-Dec-2019 12:58:41 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageClassTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageClassTest.php on line 2
+[02-Dec-2019 04:00:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BeforeClassWithOnlyDataProviderTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BeforeClassWithOnlyDataProviderTest.php on line 2
+[02-Dec-2019 10:36:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoveragePrivateTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoveragePrivateTest.php on line 2
+[02-Dec-2019 11:21:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/DataProviderDebugTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/DataProviderDebugTest.php on line 2
+[02-Dec-2019 18:10:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_BaseTestListener' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BaseTestListenerSample.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BaseTestListenerSample.php on line 3
+[02-Dec-2019 21:10:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageMethodTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageMethodTest.php on line 2
+[03-Dec-2019 03:23:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageFunctionTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageFunctionTest.php on line 2
+[03-Dec-2019 15:35:58 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BeforeClassAndAfterClassTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BeforeClassAndAfterClassTest.php on line 2
+[03-Dec-2019 17:27:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/AssertionExampleTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/AssertionExampleTest.php on line 2
+[03-Dec-2019 23:31:19 UTC] PHP Fatal error:  Uncaught Error: Class 'AbstractTest' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/ConcreteTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/ConcreteTest.php on line 2
+[05-Dec-2019 20:52:39 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNothingTest.php on line 3
+[05-Dec-2019 21:00:10 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNotPrivateTest.php on line 3
+[06-Dec-2019 04:24:41 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNamespacedFunctionTest.php on line 3
+[06-Dec-2019 05:11:23 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BankAccountTest2.php on line 14
+[06-Dec-2019 10:39:38 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNotPublicTest.php on line 3
+[06-Dec-2019 11:06:43 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNoneTest.php on line 3
+[06-Dec-2019 22:39:21 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoveragePublicTest.php on line 3
+[07-Dec-2019 14:38:47 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageFunctionParenthesesWhitespaceTest.php on line 3
+[07-Dec-2019 18:31:46 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageMethodParenthesesTest.php on line 3
+[08-Dec-2019 03:19:00 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageMethodParenthesesWhitespaceTest.php on line 3
+[08-Dec-2019 06:27:51 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/ChangeCurrentWorkingDirectoryTest.php on line 3
+[08-Dec-2019 14:41:06 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/AbstractTest.php on line 3
+[09-Dec-2019 09:31:51 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/DataProviderDependencyTest.php on line 4
+[10-Dec-2019 23:21:50 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/ClonedDependencyTest.php on line 3
+[11-Dec-2019 05:25:43 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BankAccountTest.php on line 16
+[11-Dec-2019 09:43:34 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNotProtectedTest.php on line 3
+[11-Dec-2019 12:16:41 UTC] PHP Fatal error:  Class 'PHPUnit_TextUI_ResultPrinter' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CustomPrinter.php on line 3
+[11-Dec-2019 23:29:54 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageClassExtendedTest.php on line 3
+[12-Dec-2019 01:50:19 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BankAccountTest.test.php on line 16
+[12-Dec-2019 10:26:39 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageProtectedTest.php on line 3
+[12-Dec-2019 18:53:29 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageClassTest.php on line 3
+[13-Dec-2019 09:08:58 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BeforeClassWithOnlyDataProviderTest.php on line 3
+[13-Dec-2019 17:02:36 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoveragePrivateTest.php on line 3
+[13-Dec-2019 18:23:50 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/DataProviderDebugTest.php on line 3
+[13-Dec-2019 23:20:34 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_BaseTestListener' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BaseTestListenerSample.php on line 4
+[14-Dec-2019 04:07:03 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageMethodTest.php on line 3
+[14-Dec-2019 21:12:22 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BeforeAndAfterTest.php on line 3
+[15-Dec-2019 00:15:18 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BeforeClassAndAfterClassTest.php on line 3
+[15-Dec-2019 00:50:14 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageMethodOneLineAnnotationTest.php on line 4
+[15-Dec-2019 01:00:42 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/AssertionExampleTest.php on line 3
+[15-Dec-2019 06:09:56 UTC] PHP Fatal error:  Class 'AbstractTest' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/ConcreteTest.php on line 3
+[16-Dec-2019 21:28:50 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BeforeClassAndAfterClassTest.php on line 3
+[16-Dec-2019 23:55:24 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNothingTest.php on line 3
+[17-Dec-2019 02:11:40 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNotPrivateTest.php on line 3
+[17-Dec-2019 07:11:08 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_BaseTestListener' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BaseTestListenerSample.php on line 4
+[17-Dec-2019 11:50:34 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNamespacedFunctionTest.php on line 3
+[17-Dec-2019 15:00:17 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageMethodOneLineAnnotationTest.php on line 4
+[17-Dec-2019 15:11:50 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNotPublicTest.php on line 3
+[17-Dec-2019 16:32:43 UTC] PHP Fatal error:  Class 'AbstractTest' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/ConcreteTest.my.php on line 3
+[17-Dec-2019 20:26:17 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageNoneTest.php on line 3
+[17-Dec-2019 20:40:23 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageProtectedTest.php on line 3
+[17-Dec-2019 22:33:22 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BankAccountTest2.php on line 14
+[18-Dec-2019 04:15:43 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/BankAccountTest2.php on line 14
+[18-Dec-2019 06:17:08 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoveragePublicTest.php on line 3
+[18-Dec-2019 15:29:27 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageFunctionParenthesesWhitespaceTest.php on line 3
+[18-Dec-2019 19:22:44 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/ChangeCurrentWorkingDirectoryTest.php on line 3
+[19-Dec-2019 06:49:27 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/DataProviderDebugTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/DataProviderDebugTest.php on line 2
+[19-Dec-2019 18:36:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageClassTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CoverageClassTest.php on line 2
+[19-Dec-2019 23:57:41 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_TextUI_ResultPrinter' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CustomPrinter.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/CustomPrinter.php on line 2
+[20-Dec-2019 00:57:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/AbstractTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/tests/_files/AbstractTest.php on line 2

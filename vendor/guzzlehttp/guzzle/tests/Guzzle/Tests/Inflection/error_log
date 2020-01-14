@@ -1,0 +1,14 @@
+[28-Nov-2019 00:24:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Inflection/InflectorTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Inflection/InflectorTest.php on line 10
+[05-Dec-2019 19:02:00 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Inflection/MemoizingInflectorTest.php on line 12
+[09-Dec-2019 05:15:27 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Inflection/InflectorTest.php on line 11
+[10-Dec-2019 21:32:06 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Inflection/PreComputedInflectorTest.php on line 11
+[13-Dec-2019 11:54:28 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Inflection/PreComputedInflectorTest.php on line 11
+[15-Dec-2019 20:15:01 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Inflection/InflectorTest.php on line 11
+[16-Dec-2019 20:11:32 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Inflection/MemoizingInflectorTest.php on line 12
+[19-Dec-2019 08:50:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Inflection/MemoizingInflectorTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Inflection/MemoizingInflectorTest.php on line 11

@@ -1,0 +1,14 @@
+[07-Dec-2019 12:03:49 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/MockObjectTest.php on line 12
+[08-Dec-2019 14:03:35 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/ProxyObjectTest.php on line 12
+[09-Dec-2019 19:51:13 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/MockBuilderTest.php on line 12
+[10-Dec-2019 23:42:56 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/GeneratorTest.php on line 16
+[12-Dec-2019 06:33:02 UTC] PHP Warning:  require(/home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/../vendor/autoload.php): failed to open stream: No such file or directory in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/bootstrap.php on line 3
+[12-Dec-2019 06:33:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/bootstrap.php on line 3
+[12-Dec-2019 17:31:18 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/GeneratorTest.php on line 16
+[14-Dec-2019 20:03:55 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/ProxyObjectTest.php on line 12
+[16-Dec-2019 12:08:33 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/MockObjectTest.php on line 12
+[18-Dec-2019 22:38:13 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/MockObjectTest.php on line 12
+[19-Dec-2019 21:00:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/ProxyObjectTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit-mock-objects/tests/ProxyObjectTest.php on line 11

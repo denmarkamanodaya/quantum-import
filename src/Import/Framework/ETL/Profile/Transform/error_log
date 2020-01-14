@@ -1,0 +1,6 @@
+[02-Dec-2019 08:32:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Framework\ETL\Profile\Transform\AbstractTransform' not found in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Transform/Condition.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Transform/Condition.php on line 6
+[08-Dec-2019 22:24:36 UTC] PHP Fatal error:  Class 'Import\Framework\ETL\Profile\Transform\AbstractTransform' not found in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Transform/Geospatial.php on line 8
+[14-Dec-2019 09:22:39 UTC] PHP Fatal error:  Class 'Import\Framework\ETL\Profile\Transform\AbstractTransform' not found in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Transform/Standard.php on line 14

@@ -1,0 +1,28 @@
+[19-Oct-2019 02:46:48 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:46:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:46:48 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:46:48 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:46:48 UTC] PHP Fatal error:  Class 'Import\Exception' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/Exception.php on line 6
+[19-Oct-2019 02:47:06 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:47:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:47:06 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:47:06 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:47:06 UTC] PHP Fatal error:  Class 'Import\Input\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/Spider.php on line 13
+[15-Nov-2019 21:37:33 UTC] PHP Fatal error:  Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/AbstractAdapter.php on line 15
+[17-Nov-2019 16:11:41 UTC] PHP Fatal error:  Class 'Import\Exception' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/Exception.php on line 6
+[18-Nov-2019 02:01:08 UTC] PHP Fatal error:  Class 'Import\Input\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/Spider.php on line 13
+[03-Dec-2019 00:56:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/AbstractAdapter.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/AbstractAdapter.php on line 15
+[06-Dec-2019 09:39:58 UTC] PHP Fatal error:  Class 'Import\Exception' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/Exception.php on line 6
+[07-Dec-2019 08:29:44 UTC] PHP Fatal error:  Class 'Import\Input\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/Spider.php on line 13
+[09-Dec-2019 12:48:58 UTC] PHP Fatal error:  Class 'Import\Exception' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/Exception.php on line 6
+[14-Dec-2019 05:22:14 UTC] PHP Fatal error:  Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/AbstractAdapter.php on line 15
+[14-Dec-2019 10:28:28 UTC] PHP Fatal error:  Class 'Import\Input\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/Spider.php on line 13
+[17-Dec-2019 14:59:40 UTC] PHP Fatal error:  Class 'Import\Exception' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/Exception.php on line 6
+[18-Dec-2019 18:39:25 UTC] PHP Fatal error:  Class 'Import\Input\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/Spider.php on line 13
+[19-Dec-2019 10:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/AbstractAdapter.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Input/Adapter/AbstractAdapter.php on line 15

@@ -1,0 +1,17 @@
+[01-Dec-2019 11:21:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/EventTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/EventTest.php on line 10
+[04-Dec-2019 19:29:16 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/AbstractHasDispatcherTest.php on line 13
+[04-Dec-2019 20:56:38 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/VersionTest.php on line 11
+[08-Dec-2019 11:57:22 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/CollectionTest.php on line 13
+[10-Dec-2019 00:59:07 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/CollectionTest.php on line 13
+[12-Dec-2019 20:07:31 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/AbstractHasDispatcherTest.php on line 13
+[12-Dec-2019 20:31:37 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/EventTest.php on line 11
+[16-Dec-2019 01:59:56 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/AbstractHasDispatcherTest.php on line 13
+[16-Dec-2019 03:50:19 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/VersionTest.php on line 11
+[17-Dec-2019 06:43:28 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/EventTest.php on line 11
+[19-Dec-2019 14:42:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/VersionTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Common/VersionTest.php on line 10

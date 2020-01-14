@@ -1,0 +1,7 @@
+[08-Dec-2019 06:05:56 UTC] PHP Fatal error:  Class 'Twig_Filter' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Filter/Function.php on line 21
+[10-Dec-2019 08:53:38 UTC] PHP Fatal error:  Class 'Twig_Filter' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Filter/Method.php on line 21
+[13-Dec-2019 01:13:30 UTC] PHP Fatal error:  Class 'Twig_Filter' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Filter/Node.php on line 21
+[19-Dec-2019 13:10:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig_Filter' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Filter/Function.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Filter/Function.php on line 20

@@ -1,0 +1,9 @@
+[18-Dec-2019 11:00:28 UTC] PHP Fatal error:  Interface 'Guzzle\Parser\Message\MessageParserInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Parser/Message/AbstractMessageParser.php on line 9
+[19-Dec-2019 09:15:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Parser\Message\AbstractMessageParser' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Parser/Message/PeclHttpMessageParser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Parser/Message/PeclHttpMessageParser.php on line 8
+[19-Dec-2019 17:04:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Parser\Message\AbstractMessageParser' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Parser/Message/MessageParser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Parser/Message/MessageParser.php on line 8

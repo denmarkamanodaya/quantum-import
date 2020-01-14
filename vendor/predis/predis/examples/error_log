@@ -1,0 +1,199 @@
+[21-Oct-2019 08:40:23 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:40:23 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:23 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:24 UTC] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/gaukmedi/public_html/im in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[21-Oct-2019 08:40:26 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:40:26 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:26 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:28 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:40:28 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:28 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:28 UTC] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/gaukmedi/public_html/im in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[21-Oct-2019 08:40:31 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:40:31 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:31 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:31 UTC] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/gaukmedi/public_html/im in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[21-Oct-2019 08:40:36 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:40:36 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:40:36 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:41:55 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:41:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:41:55 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:41:55 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:41:57 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:41:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:41:57 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:41:57 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:41:59 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:41:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:41:59 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:41:59 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:02 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:42:02 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:02 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:44 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:42:44 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:44 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:46 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:42:46 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:46 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:48 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:42:48 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:48 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:50 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:42:50 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:50 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:51 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:42:51 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:51 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:53 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:42:53 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:53 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:55 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:42:55 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:42:55 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:48 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:33:48 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:48 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:48 UTC] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/gaukmedi/public_html/im in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2019 11:33:50 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:33:50 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:50 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:52 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:33:52 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:52 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:52 UTC] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/gaukmedi/public_html/im in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2019 11:33:53 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:33:54 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:54 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:54 UTC] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/gaukmedi/public_html/im in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[24-Oct-2019 11:33:55 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:33:55 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:33:55 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:08 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:35:08 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:08 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:10 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:35:10 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:10 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:14 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:35:14 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:14 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:16 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:35:16 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:16 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:57 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:35:57 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:57 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:59 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:35:59 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:35:59 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:01 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:36:01 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:01 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:02 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:36:02 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:02 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:04 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:36:04 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:04 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:06 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:36:06 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:06 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:08 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:36:08 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:36:08 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[27-Nov-2019 02:25:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 77854301 bytes) in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Monitor/MonitorContext.php on line 154
+[29-Nov-2019 23:34:24 UTC] PHP Fatal error:  Uncaught Predis\Connection\ConnectionException: Connection refused [tcp://127.0.0.1:6380] in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/gaukmedi/public_html/import/current/vendor/predis in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[02-Dec-2019 21:17:48 UTC] PHP Fatal error:  Uncaught Predis\Connection\ConnectionException: Connection refused [tcp://127.0.0.1:6380] in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/gaukmedi/public_html/import/current/vendor/predis in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[04-Dec-2019 02:29:10 UTC] PHP Fatal error:  Uncaught Predis\Connection\ConnectionException: Connection refused [tcp://127.0.0.1:6380] in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/gaukmedi/public_html/import/current/vendor/predis in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141
+[15-Dec-2019 07:25:54 UTC] PHP Fatal error:  Uncaught exception 'Predis\Connection\ConnectionException' with message 'Connection refused [tcp://127.0.0.1:6380]' in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php:141
+Stack trace:
+#0 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(96): Predis\Connection\AbstractConnection->onConnectionError('Connection refu...', 111)
+#1 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(70): Predis\Connection\StreamConnection->tcpStreamInitializer(Object(Predis\Connection\ConnectionParameters))
+#2 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php(96): Predis\Connection\StreamConnection->createResource()
+#3 /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/StreamConnection.php(144): Predis\Connection\AbstractConnection->connect()
+#4 /home/gaukmedi/public_html/im in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Connection/AbstractConnection.php on line 141

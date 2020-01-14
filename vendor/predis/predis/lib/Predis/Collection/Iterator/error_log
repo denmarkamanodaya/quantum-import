@@ -1,0 +1,28 @@
+[20-Oct-2019 02:08:14 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2019 02:08:14 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:14 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:16 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2019 02:08:16 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:16 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:16 UTC] PHP Fatal error:  Class 'Predis\Collection\Iterator\CursorBasedIterator' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Collection/Iterator/HashKey.php on line 25
+[20-Oct-2019 02:08:18 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2019 02:08:18 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:18 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:18 UTC] PHP Fatal error:  Class 'Predis\Collection\Iterator\CursorBasedIterator' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Collection/Iterator/Keyspace.php on line 25
+[20-Oct-2019 02:08:19 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2019 02:08:19 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:19 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:21 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2019 02:08:21 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:21 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:21 UTC] PHP Fatal error:  Class 'Predis\Collection\Iterator\CursorBasedIterator' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Collection/Iterator/SetKey.php on line 25
+[20-Oct-2019 02:08:23 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Oct-2019 02:08:23 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:23 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[20-Oct-2019 02:08:23 UTC] PHP Fatal error:  Class 'Predis\Collection\Iterator\CursorBasedIterator' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/lib/Predis/Collection/Iterator/SortedSetKey.php on line 25

@@ -1,0 +1,3 @@
+[11-Dec-2019 21:19:11 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Parser/UriTemplate/AbstractUriTemplateTest.php on line 6
+[13-Dec-2019 04:01:39 UTC] PHP Fatal error:  Class 'Guzzle\Tests\Parsers\UriTemplate\AbstractUriTemplateTest' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Parser/UriTemplate/UriTemplateTest.php on line 11
+[14-Dec-2019 18:30:49 UTC] PHP Fatal error:  Class 'Guzzle\Tests\Parsers\UriTemplate\AbstractUriTemplateTest' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Parser/UriTemplate/PeclUriTemplateTest.php on line 11

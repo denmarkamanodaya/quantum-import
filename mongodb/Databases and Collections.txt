@@ -1,0 +1,13 @@
+Mongodb Database & Collections to create:
+ETL
+   - Extract
+   - Load
+   - Mappings
+   - Transform
+   
+geospatial
+   - postal_codes
+   
+storage
+   - itemPurge
+   - items

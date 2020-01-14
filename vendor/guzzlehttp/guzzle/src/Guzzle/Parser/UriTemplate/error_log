@@ -1,0 +1,1 @@
+[12-Dec-2019 05:07:18 UTC] PHP Fatal error:  Interface 'Guzzle\Parser\UriTemplate\UriTemplateInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Parser/UriTemplate/PeclUriTemplate.php on line 14

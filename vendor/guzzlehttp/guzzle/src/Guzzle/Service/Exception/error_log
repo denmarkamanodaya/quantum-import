@@ -1,0 +1,11 @@
+[09-Dec-2019 04:02:20 UTC] PHP Fatal error:  Class 'Guzzle\Common\Exception\RuntimeException' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Service/Exception/CommandException.php on line 7
+[10-Dec-2019 18:14:48 UTC] PHP Fatal error:  Class 'Guzzle\Common\Exception\RuntimeException' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Service/Exception/ServiceBuilderException.php on line 7
+[13-Dec-2019 22:43:03 UTC] PHP Fatal error:  Class 'Guzzle\Common\Exception\RuntimeException' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Service/Exception/ValidationException.php on line 8
+[14-Dec-2019 17:18:56 UTC] PHP Fatal error:  Class 'Guzzle\Http\Exception\MultiTransferException' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Service/Exception/CommandTransferException.php on line 12
+[14-Dec-2019 18:09:05 UTC] PHP Fatal error:  Class 'Guzzle\Common\Exception\RuntimeException' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Service/Exception/DescriptionBuilderException.php on line 7
+[15-Dec-2019 06:04:20 UTC] PHP Fatal error:  Class 'Guzzle\Service\Exception\ServiceBuilderException' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Service/Exception/ServiceNotFoundException.php on line 5
+[15-Dec-2019 19:59:51 UTC] PHP Fatal error:  Class 'Guzzle\Common\Exception\RuntimeException' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Service/Exception/ResponseClassException.php on line 8
+[20-Dec-2019 01:50:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Http\Exception\MultiTransferException' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Service/Exception/CommandTransferException.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Service/Exception/CommandTransferException.php on line 11

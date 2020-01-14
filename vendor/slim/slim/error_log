@@ -1,0 +1,10 @@
+[05-Sep-2019 20:08:47 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[05-Sep-2019 20:08:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Sep-2019 20:08:47 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[05-Sep-2019 20:08:47 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[18-Oct-2019 04:34:14 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[18-Oct-2019 04:34:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Oct-2019 04:34:14 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[18-Oct-2019 04:34:14 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[06-Nov-2019 23:16:38 UTC] PHP Fatal error:  Class 'GearmanWorker' not found in /home/gaukmedi/quantum-process/current/src/Process/Framework/Gearman/AbstractWorker.php on line 67
+[06-Nov-2019 23:16:51 UTC] PHP Fatal error:  Class 'GearmanWorker' not found in /home/gaukmedi/quantum-process/current/src/Process/Framework/Gearman/AbstractWorker.php on line 67

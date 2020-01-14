@@ -1,0 +1,12 @@
+[27-Nov-2019 17:49:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Stream/StreamTest.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Stream/StreamTest.php on line 11
+[27-Nov-2019 21:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Stream/PhpStreamRequestFactoryTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Stream/PhpStreamRequestFactoryTest.php on line 13
+[07-Dec-2019 04:27:33 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Stream/PhpStreamRequestFactoryTest.php on line 14
+[08-Dec-2019 19:52:28 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Stream/PhpStreamRequestFactoryTest.php on line 14
+[08-Dec-2019 23:29:12 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Stream/StreamTest.php on line 12
+[09-Dec-2019 03:53:58 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Stream/StreamTest.php on line 12

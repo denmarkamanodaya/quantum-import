@@ -1,0 +1,63 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-03/schema",
+    "required": true,
+    "properties": {
+        "_id": {
+            "type": "object",
+            "required": false,
+            "properties": {
+                "bsonObject": {
+                    "type": "string",
+                    "required": true,
+                    "pattern": "^MongoId$"
+                },
+                "value": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        },
+        "description": {
+            "type": "string",
+            "required": false
+        },
+        "fields": {
+            "type": "array",
+            "required": false,
+            "minItems": 1,
+            "items": {
+                "type": "object",
+                "required": false,
+                "properties": {
+                    "location": {
+                        "type": "string",
+                        "required": true,
+                        "minLength": 2
+                    },
+                    "name": {
+                        "type": "string",
+                        "required": true,
+                        "pattern": "^[a-zA-Z_][a-zA-Z0-9_]*$",
+                        "minLength": 1
+                    }
+                }
+            }
+        },
+        "format": {
+            "type": "string",
+            "required": true,
+            "pattern": "^(json)$"
+        },
+        "key": {
+            "type": "string",
+            "required": false,
+            "minLength": 5
+        },
+        "name": {
+            "type": "string",
+            "required": false,
+            "minLength": 3
+        }
+    }
+}

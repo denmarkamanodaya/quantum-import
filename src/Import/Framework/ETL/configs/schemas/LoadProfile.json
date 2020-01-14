@@ -1,0 +1,134 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-03/schema",
+    "name": "Load Profile JSON schema",
+    "description": "This schema can be used to validate Load Profiles.",
+    "required": true,
+    "properties": {
+        "_id": {
+            "type": "object",
+            "required": false,
+            "properties": {
+                "bsonObject": {
+                    "type": "string",
+                    "required": false,
+                    "pattern": "^MongoId$"
+                },
+                "value": {
+                    "type": "string",
+                    "required": false
+                }
+            }
+        },
+        "description": {
+            "type": "string",
+            "required": false
+        },
+        "fields": {
+            "type": "array",
+            "required": true,
+            "minItems": 1,
+            "items": {
+                "type": "object",
+                "required": true,
+                "properties": {
+                    "comment": {
+                        "type": "string",
+                        "required": false
+                    },
+                    "name": {
+                        "type": "string",
+                        "required": true,
+                        "pattern": "^[a-zA-Z_][a-zA-Z0-9_]*$"
+                    },
+                    "validation": {
+                        "type": "array",
+                        "required": false,
+                        "items": {
+                            "type": "object",
+                            "required": true,
+                            "properties": {
+                                "method": {
+                                    "type": "string",
+                                    "required": true,
+                                    "pattern": "^([a-zA-Z]+\\|)?[a-zA-Z_][a-zA-Z0-9_]*$"
+                                },
+                                "args": {
+                                    "type":"array",
+                                    "required":false,
+                                    "items": {
+                                        "type":"array",
+                                        "required":true
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "keys": {
+            "type": "object",
+            "required": true,
+            "properties": {
+                "component": {
+                    "type": "string",
+                    "required": true
+                },
+                "function": {
+                    "type": "string",
+                    "required": true
+                },
+                "id": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        },
+        "name": {
+            "type": "string",
+            "required": true
+        },
+        "notes": {
+            "type": "array",
+            "required": true,
+            "items": {
+                "type": "object",
+                "required": false,
+                "properties": {
+                    "author": {
+                        "type": "string",
+                        "required": true
+                    },
+                    "note": {
+                        "type": "string",
+                        "required": true
+                    },
+                    "time": {
+                        "type": "object",
+                        "required": true,
+                        "properties": {
+                            "bsonObject": {
+                                "type": "string",
+                                "required": true,
+                                "pattern": "^MongoDate$"
+                            },
+                            "value": {
+                                "type": "number",
+                                "required": true
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "template": {
+            "type": "string",
+            "required": false
+        },
+        "type": {
+            "type": "string",
+            "required": false
+        }
+    }
+}

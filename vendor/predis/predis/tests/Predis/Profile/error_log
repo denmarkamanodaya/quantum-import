@@ -1,0 +1,35 @@
+[19-Oct-2019 03:05:12 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 03:05:12 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:12 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:12 UTC] PHP Fatal error:  Class 'PredisTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/tests/Predis/Profile/ServerProfileTest.php on line 21
+[19-Oct-2019 03:05:17 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 03:05:17 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:17 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:17 UTC] PHP Fatal error:  Class 'Predis\Profile\PredisProfileTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/tests/Predis/Profile/ServerVersion12Test.php on line 18
+[19-Oct-2019 03:05:21 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 03:05:21 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:21 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:21 UTC] PHP Fatal error:  Class 'Predis\Profile\PredisProfileTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/tests/Predis/Profile/ServerVersion20Test.php on line 18
+[19-Oct-2019 03:05:32 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 03:05:32 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:32 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:32 UTC] PHP Fatal error:  Class 'Predis\Profile\PredisProfileTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/tests/Predis/Profile/ServerVersion24Test.php on line 18
+[19-Oct-2019 03:05:35 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 03:05:35 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:35 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:35 UTC] PHP Fatal error:  Class 'Predis\Profile\PredisProfileTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/tests/Predis/Profile/ServerVersion26Test.php on line 18
+[19-Oct-2019 03:05:38 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 03:05:38 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:38 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:38 UTC] PHP Fatal error:  Class 'Predis\Profile\PredisProfileTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/tests/Predis/Profile/ServerVersion28Test.php on line 18
+[19-Oct-2019 03:05:44 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 03:05:44 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:44 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 03:05:44 UTC] PHP Fatal error:  Class 'Predis\Profile\PredisProfileTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/predis/predis/tests/Predis/Profile/ServerVersionNextTest.php on line 18

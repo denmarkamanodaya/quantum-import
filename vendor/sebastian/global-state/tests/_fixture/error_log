@@ -1,0 +1,2 @@
+[06-Dec-2019 02:49:50 UTC] PHP Fatal error:  Class 'SebastianBergmann\GlobalState\TestFixture\BlacklistedClass' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/global-state/tests/_fixture/BlacklistedChildClass.php on line 16
+[06-Dec-2019 17:24:34 UTC] PHP Fatal error:  Interface 'SebastianBergmann\GlobalState\TestFixture\BlacklistedInterface' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/global-state/tests/_fixture/BlacklistedImplementor.php on line 16

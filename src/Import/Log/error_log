@@ -1,0 +1,20 @@
+[16-Oct-2019 14:10:24 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[16-Oct-2019 14:10:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Oct-2019 14:10:24 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[16-Oct-2019 14:10:24 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[16-Oct-2019 14:10:24 UTC] PHP Fatal error:  Class 'Import\Cache' not found in /home/gaukmedi/public_html/import/current/src/Import/Log/AbstractLogable.php on line 17
+[21-Oct-2019 08:36:56 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:36:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 08:36:56 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 08:36:56 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 08:36:56 UTC] PHP Fatal error:  Class 'Import\Cache' not found in /home/gaukmedi/public_html/import/current/src/Import/Log/AbstractLogable.php on line 17
+[24-Oct-2019 11:32:03 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:32:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2019 11:32:03 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[24-Oct-2019 11:32:03 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[24-Oct-2019 11:32:03 UTC] PHP Fatal error:  Class 'Import\Cache' not found in /home/gaukmedi/public_html/import/current/src/Import/Log/AbstractLogable.php on line 17
+[02-Nov-2019 15:36:04 UTC] PHP Fatal error:  Class 'Import\Cache' not found in /home/gaukmedi/public_html/import/current/src/Import/Log/AbstractLogable.php on line 17
+[17-Nov-2019 23:28:35 UTC] PHP Fatal error:  Class 'Import\Cache' not found in /home/gaukmedi/public_html/import/current/src/Import/Log/AbstractLogable.php on line 17
+[19-Nov-2019 08:19:26 UTC] PHP Fatal error:  Class 'Import\Cache' not found in /home/gaukmedi/public_html/import/current/src/Import/Log/AbstractLogable.php on line 17
+[07-Dec-2019 01:15:27 UTC] PHP Fatal error:  Class 'Import\Cache' not found in /home/gaukmedi/public_html/import/current/src/Import/Log/AbstractLogable.php on line 17
+[09-Dec-2019 20:47:44 UTC] PHP Fatal error:  Class 'Import\Cache' not found in /home/gaukmedi/public_html/import/current/src/Import/Log/AbstractLogable.php on line 17

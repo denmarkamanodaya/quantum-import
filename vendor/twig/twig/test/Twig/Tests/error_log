@@ -1,0 +1,4 @@
+[19-Dec-2019 14:09:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/test/Twig/Tests/ErrorTest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/twig/twig/test/Twig/Tests/ErrorTest.php on line 12

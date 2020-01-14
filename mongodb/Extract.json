@@ -1,0 +1,79 @@
+{
+    "name" : "gauk-motors-etl",
+    "description" : "Standard Extraction Mapping for Gauk Motors Vertical",
+    "version" : "1.0",
+    "function" : "Provider Source Mapping",
+    "type" : "Source Mapping",
+    "key" : "ProviderSourceMapping/gauk-motors-etl",
+    "format" : "json",
+    "fields" : [ 
+        {
+            "name" : "url",
+            "location" : "/source/url"
+        }, 
+        {
+            "name" : "name",
+            "location" : "/data/name"
+        }, 
+        {
+            "name" : "auction_date",
+            "location" : "/data/auction_date"
+        }, 
+        {
+            "name" : "description",
+            "location" : "/data/description"
+        }, 
+        {
+            "name" : "manufacturer",
+            "location" : "/data/manufacturer"
+        }, 
+        {
+            "name" : "model",
+            "location" : "/data/model"
+        }, 
+        {
+            "name" : "registration",
+            "location" : "/data/registration"
+        }, 
+        {
+            "name" : "mileage",
+            "location" : "/data/mileage"
+        }, 
+        {
+            "name" : "gearbox",
+            "location" : "/data/gearbox"
+        }, 
+        {
+            "name" : "fuel",
+            "location" : "/data/fuel"
+        }, 
+        {
+            "name" : "colour",
+            "location" : "/data/colour"
+        }, 
+        {
+            "name" : "mot",
+            "location" : "/data/mot"
+        },
+        {
+            "name" : "estimate",
+            "location" : "/data/estimate"
+        },
+        {
+            "name" : "type",
+            "location" : "/data/type"
+        },
+        {
+            "name" : "service_history",
+            "location" : "/data/service_history"
+        },
+        {
+            "name" : "engine_size",
+            "location" : "/data/engine_size"
+        },
+        {
+            "name" : "images",
+            "location" : "/data/images"
+        }
+    ]
+}

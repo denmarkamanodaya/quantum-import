@@ -1,0 +1,4 @@
+[03-Dec-2019 03:37:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Request\Adapter\AbstractRequest' not found in /home/gaukmedi/public_html/import/current/src/Import/Request/Adapter/Spider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Request/Adapter/Spider.php on line 8

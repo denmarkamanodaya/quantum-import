@@ -1,0 +1,3 @@
+[15-Dec-2019 05:40:41 UTC] PHP Fatal error:  Interface 'Guzzle\Common\ToArrayInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Common/Collection.php on line 12
+[17-Dec-2019 07:25:43 UTC] PHP Fatal error:  Class 'Symfony\Component\EventDispatcher\Event' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Common/Event.php on line 10
+[17-Dec-2019 08:24:45 UTC] PHP Fatal error:  Interface 'Guzzle\Common\HasDispatcherInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Common/AbstractHasDispatcher.php on line 13

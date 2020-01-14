@@ -1,0 +1,8 @@
+vendor/
+composer.lock
+.idea
+logs/
+environment.txt
+.env
+*error_log
+*.swp

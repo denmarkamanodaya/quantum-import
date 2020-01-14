@@ -1,0 +1,1 @@
+[16-Dec-2019 00:17:01 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Plugin/Cookie/CookiePlugin.php on line 14

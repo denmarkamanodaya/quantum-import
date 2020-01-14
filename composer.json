@@ -1,0 +1,28 @@
+{
+    "name": "Importer Application",
+    "description": "API Responsible for Importing all items",
+    "require": {
+        "php": ">=5.6.0",
+        "slim/slim": "2.2.0",
+        "domnikl/statsd": "1.0.0",
+        "predis/predis": "v0.8.5",
+        "monolog/monolog": "~1.21",
+        "vlucas/phpdotenv": "^2.5",
+        "ext-gearman": "*",
+        "twig/twig": "v1.14.1",
+        "justinrainbow/json-schema" : "1.3.6",
+        "guzzlehttp/guzzle": "3.8.1",
+        "mongodb/mongodb": "^1.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Import": "src/"
+        }
+    },
+    "suggest": {
+        "monolog/monolog": "Allows more advanced logging of the application flow"
+    }
+}

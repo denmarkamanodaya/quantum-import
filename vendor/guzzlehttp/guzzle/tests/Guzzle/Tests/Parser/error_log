@@ -1,0 +1,2 @@
+[04-Dec-2019 21:52:41 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Parser/ParserRegistryTest.php on line 11
+[12-Dec-2019 00:21:20 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Parser/ParserRegistryTest.php on line 11

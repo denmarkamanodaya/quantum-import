@@ -1,0 +1,9 @@
+[27-Nov-2019 17:53:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Framework\ETL\Profile\Exception' not found in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Extract/Exception.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Extract/Exception.php on line 5
+[08-Dec-2019 18:28:13 UTC] PHP Fatal error:  Class 'Import\Framework\ETL\Profile\Exception' not found in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Extract/Exception.php on line 6
+[20-Dec-2019 02:05:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Framework\ETL\Profile\Exception' not found in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Extract/Exception.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Framework/ETL/Profile/Extract/Exception.php on line 5

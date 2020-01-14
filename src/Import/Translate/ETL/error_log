@@ -1,0 +1,34 @@
+[19-Oct-2019 03:01:15 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:01:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 03:01:15 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:01:15 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[07-Nov-2019 20:31:35 UTC] PHP Fatal error:  Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/Blackhole.php on line 18
+[10-Nov-2019 12:30:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ProfileKey.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ProfileKey.php on line 5
+[18-Nov-2019 20:15:25 UTC] PHP Fatal error:  Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/Blackhole.php on line 18
+[22-Nov-2019 05:05:57 UTC] PHP Fatal error:  Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ProfileKey.php on line 6
+[29-Nov-2019 22:51:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ExternalLookup.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ExternalLookup.php on line 17
+[30-Nov-2019 20:34:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ExternalLookup.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ExternalLookup.php on line 17
+[01-Dec-2019 10:41:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ProfileKey.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ProfileKey.php on line 5
+[03-Dec-2019 01:05:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ProfileKey.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ProfileKey.php on line 5
+[03-Dec-2019 11:01:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/Blackhole.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/Blackhole.php on line 17
+[08-Dec-2019 18:53:35 UTC] PHP Fatal error:  Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/Blackhole.php on line 18
+[12-Dec-2019 03:24:03 UTC] PHP Fatal error:  Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/ExternalLookup.php on line 18
+[14-Dec-2019 16:50:22 UTC] PHP Fatal error:  Class 'Import\Translate\ETL\AbstractMapping' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/ETL/Blackhole.php on line 18

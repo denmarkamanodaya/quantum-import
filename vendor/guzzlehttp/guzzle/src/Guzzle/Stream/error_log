@@ -1,0 +1,6 @@
+[01-Dec-2019 21:14:34 UTC] PHP Fatal error:  Interface 'Guzzle\Stream\StreamRequestFactoryInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Stream/PhpStreamRequestFactory.php on line 16
+[06-Dec-2019 20:43:43 UTC] PHP Fatal error:  Interface 'Guzzle\Stream\StreamInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Stream/Stream.php on line 11
+[13-Dec-2019 06:13:46 UTC] PHP Fatal error:  Interface 'Guzzle\Stream\StreamRequestFactoryInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Stream/PhpStreamRequestFactory.php on line 17
+[14-Dec-2019 14:08:36 UTC] PHP Fatal error:  Interface 'Guzzle\Stream\StreamInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Stream/Stream.php on line 11
+[15-Dec-2019 16:11:57 UTC] PHP Fatal error:  Interface 'Guzzle\Stream\StreamRequestFactoryInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Stream/PhpStreamRequestFactory.php on line 17
+[18-Dec-2019 12:57:58 UTC] PHP Fatal error:  Interface 'Guzzle\Stream\StreamInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Stream/Stream.php on line 11

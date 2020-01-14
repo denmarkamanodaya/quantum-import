@@ -1,0 +1,4 @@
+[03-Dec-2019 12:49:04 UTC] PHP Fatal error:  Interface 'Guzzle\Inflection\InflectorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Inflection/Inflector.php on line 8
+[10-Dec-2019 12:58:58 UTC] PHP Fatal error:  Interface 'Guzzle\Inflection\InflectorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Inflection/MemoizingInflector.php on line 9
+[14-Dec-2019 13:35:21 UTC] PHP Fatal error:  Interface 'Guzzle\Inflection\InflectorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Inflection/PreComputedInflector.php on line 9
+[14-Dec-2019 18:22:30 UTC] PHP Fatal error:  Interface 'Guzzle\Inflection\InflectorInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Inflection/Inflector.php on line 9

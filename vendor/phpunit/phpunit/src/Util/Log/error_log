@@ -1,0 +1,15 @@
+[08-Dec-2019 00:38:46 UTC] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 16
+[08-Dec-2019 10:54:08 UTC] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 15
+[11-Dec-2019 06:02:17 UTC] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 14
+[19-Dec-2019 09:55:35 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Util_Printer' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/src/Util/Log/JUnit.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 16
+[19-Dec-2019 13:41:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_TextUI_ResultPrinter' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php on line 17
+[19-Dec-2019 18:53:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Util_Printer' not found in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/src/Util/Log/TAP.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 15

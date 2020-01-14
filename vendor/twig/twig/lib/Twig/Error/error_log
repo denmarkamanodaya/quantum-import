@@ -1,0 +1,6 @@
+[13-Dec-2019 17:32:16 UTC] PHP Fatal error:  Class 'Twig_Error' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Error/Syntax.php on line 19
+[17-Dec-2019 13:49:20 UTC] PHP Fatal error:  Class 'Twig_Error' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Error/Loader.php on line 26
+[20-Dec-2019 01:18:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig_Error' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Error/Runtime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Error/Runtime.php on line 18

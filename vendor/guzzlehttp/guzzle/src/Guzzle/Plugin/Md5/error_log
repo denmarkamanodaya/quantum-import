@@ -1,0 +1,2 @@
+[17-Dec-2019 09:21:31 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Plugin/Md5/Md5ValidatorPlugin.php on line 15
+[18-Dec-2019 06:43:58 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Plugin/Md5/CommandContentMd5Plugin.php on line 14

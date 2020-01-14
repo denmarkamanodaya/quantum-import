@@ -1,0 +1,24 @@
+[30-Nov-2019 16:40:09 UTC] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\Comparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/TypeComparator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/TypeComparator.php on line 16
+[02-Dec-2019 01:52:41 UTC] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\Comparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/SplObjectStorageComparator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/SplObjectStorageComparator.php on line 16
+[03-Dec-2019 21:39:06 UTC] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\ScalarComparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/NumericComparator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/NumericComparator.php on line 16
+[04-Dec-2019 10:49:57 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/DOMNodeComparator.php on line 20
+[08-Dec-2019 16:13:26 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/ScalarComparator.php on line 17
+[09-Dec-2019 00:30:56 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/MockObjectComparator.php on line 17
+[09-Dec-2019 07:36:00 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/ResourceComparator.php on line 17
+[10-Dec-2019 13:50:44 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/DateTimeComparator.php on line 17
+[11-Dec-2019 20:49:12 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/ArrayComparator.php on line 17
+[12-Dec-2019 02:07:38 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/TypeComparator.php on line 17
+[12-Dec-2019 13:09:07 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\NumericComparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/DoubleComparator.php on line 17
+[13-Dec-2019 07:50:31 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/SplObjectStorageComparator.php on line 17
+[13-Dec-2019 14:36:08 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/ExceptionComparator.php on line 17
+[13-Dec-2019 19:22:19 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ArrayComparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/ObjectComparator.php on line 17
+[15-Dec-2019 17:22:03 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/gaukmedi/public_html/import/current/vendor/sebastian/comparator/src/DOMNodeComparator.php on line 20

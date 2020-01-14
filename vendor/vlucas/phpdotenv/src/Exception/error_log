@@ -1,0 +1,4 @@
+[07-Dec-2019 18:15:10 UTC] PHP Fatal error:  Interface 'Dotenv\Exception\ExceptionInterface' not found in /home/gaukmedi/public_html/import/current/vendor/vlucas/phpdotenv/src/Exception/InvalidCallbackException.php on line 11
+[10-Dec-2019 00:16:55 UTC] PHP Fatal error:  Interface 'Dotenv\Exception\ExceptionInterface' not found in /home/gaukmedi/public_html/import/current/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php on line 11
+[12-Dec-2019 21:54:06 UTC] PHP Fatal error:  Interface 'Dotenv\Exception\ExceptionInterface' not found in /home/gaukmedi/public_html/import/current/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php on line 11
+[17-Dec-2019 09:55:47 UTC] PHP Fatal error:  Interface 'Dotenv\Exception\ExceptionInterface' not found in /home/gaukmedi/public_html/import/current/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php on line 11

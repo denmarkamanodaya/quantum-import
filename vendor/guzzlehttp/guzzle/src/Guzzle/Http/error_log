@@ -1,0 +1,7 @@
+[11-Dec-2019 08:17:14 UTC] PHP Fatal error:  Class 'Guzzle\Http\AbstractEntityBodyDecorator' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Http/ReadLimitEntityBody.php on line 9
+[11-Dec-2019 13:42:08 UTC] PHP Fatal error:  Interface 'Guzzle\Stream\StreamInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Http/EntityBodyInterface.php on line 11
+[12-Dec-2019 04:04:10 UTC] PHP Fatal error:  Interface 'Guzzle\Common\HasDispatcherInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Http/ClientInterface.php on line 15
+[12-Dec-2019 08:55:22 UTC] PHP Fatal error:  Class 'Guzzle\Common\AbstractHasDispatcher' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Http/Client.php on line 24
+[15-Dec-2019 13:59:49 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Http/RedirectPlugin.php on line 20
+[16-Dec-2019 20:14:30 UTC] PHP Fatal error:  Class 'Guzzle\Http\AbstractEntityBodyDecorator' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Http/IoEmittingEntityBody.php on line 14
+[17-Dec-2019 01:18:43 UTC] PHP Fatal error:  Interface 'Guzzle\Http\EntityBodyInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Http/AbstractEntityBodyDecorator.php on line 11

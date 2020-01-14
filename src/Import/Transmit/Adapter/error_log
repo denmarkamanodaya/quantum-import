@@ -1,0 +1,13 @@
+[19-Oct-2019 03:07:10 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:07:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 03:07:10 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 03:07:10 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 03:07:10 UTC] PHP Fatal error:  Class 'Import\Transmit\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Transmit/Adapter/Ai2.php on line 21
+[08-Dec-2019 01:35:03 UTC] PHP Fatal error:  Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Transmit/Adapter/AbstractAdapter.php on line 10
+[09-Dec-2019 04:36:58 UTC] PHP Fatal error:  Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Transmit/Adapter/AbstractAdapter.php on line 10
+[12-Dec-2019 19:51:30 UTC] PHP Fatal error:  Class 'Import\Transmit\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Transmit/Adapter/Ai2.php on line 21
+[13-Dec-2019 20:22:19 UTC] PHP Fatal error:  Class 'Import\Transmit\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Transmit/Adapter/Ai2.php on line 21
+[19-Dec-2019 13:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Transmit/Adapter/AbstractAdapter.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Transmit/Adapter/AbstractAdapter.php on line 9

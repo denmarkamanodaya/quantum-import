@@ -1,0 +1,56 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-03/schema",
+    "required": true,
+    "properties": {
+        "_id": {
+            "type": "object",
+            "required": false,
+            "properties": {
+                "bsonObject": {
+                    "type": "string",
+                    "required": true,
+                    "pattern": "^MongoId$"
+                },
+                "value": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        },
+        "description": {
+            "type": "string",
+            "required": false
+        },
+        "external": {
+            "type": "object",
+            "required": true
+        },
+        "name": {
+            "type": "string",
+            "required": true
+        },
+        "profileKeys": {
+            "type": "object",
+            "required": true,
+            "properties": {
+                "extract": {
+                    "type": "string",
+                    "required": true
+                },
+                "load": {
+                    "type": "string",
+                    "required": true
+                },
+                "transform": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        },
+        "type": {
+            "type": "string",
+            "required": true
+        }
+    }
+}

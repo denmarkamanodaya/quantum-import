@@ -1,0 +1,4 @@
+[08-Dec-2019 14:50:44 UTC] PHP Fatal error:  Interface 'Guzzle\Plugin\ErrorResponse\ErrorResponseExceptionInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Mock/ErrorResponseMock.php on line 10
+[09-Dec-2019 04:05:58 UTC] PHP Fatal error:  Class 'Guzzle\Common\Event\AbstractSubject' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Mock/MockSubject.php on line 6
+[10-Dec-2019 15:22:05 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Mock/MockObserver.php on line 9
+[11-Dec-2019 07:01:37 UTC] PHP Fatal error:  Class 'Guzzle\Http\Curl\CurlMulti' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Mock/MockMulti.php on line 6

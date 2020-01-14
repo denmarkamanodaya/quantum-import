@@ -1,0 +1,24 @@
+[02-Dec-2019 14:58:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/DoctrineCacheAdapter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/DoctrineCacheAdapter.php on line 12
+[03-Dec-2019 18:05:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/NullCacheAdapter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/NullCacheAdapter.php on line 8
+[05-Dec-2019 06:28:25 UTC] PHP Fatal error:  Interface 'Guzzle\Cache\CacheAdapterInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/ClosureCacheAdapter.php on line 9
+[08-Dec-2019 09:50:48 UTC] PHP Fatal error:  Interface 'Guzzle\Cache\CacheAdapterInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/AbstractCacheAdapter.php on line 9
+[08-Dec-2019 10:33:55 UTC] PHP Fatal error:  Interface 'Guzzle\Common\FromConfigInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/CacheAdapterFactory.php on line 16
+[08-Dec-2019 14:00:18 UTC] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/Zf2CacheAdapter.php on line 13
+[09-Dec-2019 01:14:15 UTC] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/Zf1CacheAdapter.php on line 15
+[09-Dec-2019 21:41:52 UTC] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/Zf1CacheAdapter.php on line 15
+[10-Dec-2019 12:45:09 UTC] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/Zf2CacheAdapter.php on line 13
+[12-Dec-2019 11:58:48 UTC] PHP Fatal error:  Interface 'Guzzle\Cache\CacheAdapterInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/ClosureCacheAdapter.php on line 9
+[13-Dec-2019 09:17:08 UTC] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/NullCacheAdapter.php on line 9
+[15-Dec-2019 03:35:46 UTC] PHP Fatal error:  Interface 'Guzzle\Cache\CacheAdapterInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/AbstractCacheAdapter.php on line 9
+[16-Dec-2019 14:23:29 UTC] PHP Fatal error:  Interface 'Guzzle\Cache\CacheAdapterInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/ClosureCacheAdapter.php on line 9
+[19-Dec-2019 03:50:37 UTC] PHP Fatal error:  Interface 'Guzzle\Common\FromConfigInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/CacheAdapterFactory.php on line 16
+[19-Dec-2019 22:39:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/Zf2CacheAdapter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Cache/Zf2CacheAdapter.php on line 12

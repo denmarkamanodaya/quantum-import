@@ -1,0 +1,14 @@
+[30-Nov-2019 20:15:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/NullCacheAdapterTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/NullCacheAdapterTest.php on line 10
+[05-Dec-2019 16:55:44 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/Zf2CacheAdapterTest.php on line 12
+[05-Dec-2019 23:52:30 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/NullCacheAdapterTest.php on line 11
+[07-Dec-2019 21:16:57 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/CacheAdapterTest.php on line 13
+[10-Dec-2019 00:27:24 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/CacheAdapterFactoryTest.php on line 14
+[11-Dec-2019 17:36:27 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/ClosureCacheAdapterTest.php on line 11
+[11-Dec-2019 18:54:14 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/ClosureCacheAdapterTest.php on line 11
+[12-Dec-2019 03:13:25 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/NullCacheAdapterTest.php on line 11
+[13-Dec-2019 13:16:10 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/Zf2CacheAdapterTest.php on line 12
+[16-Dec-2019 23:08:10 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/Zf2CacheAdapterTest.php on line 12
+[17-Dec-2019 07:00:57 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Cache/NullCacheAdapterTest.php on line 11

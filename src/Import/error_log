@@ -1,0 +1,67 @@
+[05-Sep-2019 20:03:20 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[05-Sep-2019 20:03:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Sep-2019 20:03:20 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[05-Sep-2019 20:03:20 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[05-Sep-2019 20:03:24 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[05-Sep-2019 20:03:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Sep-2019 20:03:24 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[05-Sep-2019 20:03:24 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[05-Sep-2019 20:03:29 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[05-Sep-2019 20:03:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[05-Sep-2019 20:03:29 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[05-Sep-2019 20:03:29 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[02-Oct-2019 22:49:49 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[02-Oct-2019 22:49:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Oct-2019 22:49:49 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[02-Oct-2019 22:49:49 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[04-Oct-2019 22:09:17 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[04-Oct-2019 22:09:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[04-Oct-2019 22:09:17 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[04-Oct-2019 22:09:17 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[06-Oct-2019 20:13:37 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[06-Oct-2019 20:13:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Oct-2019 20:13:37 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[06-Oct-2019 20:13:37 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[14-Oct-2019 01:00:57 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[14-Oct-2019 01:00:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Oct-2019 01:00:57 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[14-Oct-2019 01:00:57 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[17-Oct-2019 02:13:31 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[17-Oct-2019 02:13:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Oct-2019 02:13:31 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[17-Oct-2019 02:13:31 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[18-Oct-2019 06:32:57 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[18-Oct-2019 06:32:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Oct-2019 06:32:57 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[18-Oct-2019 06:32:57 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[18-Oct-2019 06:32:59 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[18-Oct-2019 06:32:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Oct-2019 06:32:59 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[18-Oct-2019 06:32:59 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[18-Oct-2019 06:33:01 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[18-Oct-2019 06:33:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Oct-2019 06:33:01 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[18-Oct-2019 06:33:01 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[18-Oct-2019 06:33:08 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[18-Oct-2019 06:33:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Oct-2019 06:33:08 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[18-Oct-2019 06:33:08 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[21-Oct-2019 14:31:15 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 14:31:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2019 14:31:15 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[21-Oct-2019 14:31:15 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[25-Oct-2019 07:59:39 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[25-Oct-2019 07:59:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Oct-2019 07:59:39 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[25-Oct-2019 07:59:39 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[11-Nov-2019 11:09:29 UTC] PHP Fatal error:  Uncaught Error: Class 'JT\Monitor' not found in /home/gaukmedi/public_html/import/current/src/Import/Monitor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Monitor.php on line 14
+[29-Nov-2019 20:14:50 UTC] PHP Fatal error:  Uncaught Error: Class 'JT\Monitor' not found in /home/gaukmedi/public_html/import/current/src/Import/Monitor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Monitor.php on line 14
+[05-Dec-2019 02:58:04 UTC] PHP Fatal error:  Class 'JT\Monitor' not found in /home/gaukmedi/public_html/import/current/src/Import/Monitor.php on line 15
+[11-Dec-2019 05:33:04 UTC] PHP Fatal error:  Class 'JT\Monitor' not found in /home/gaukmedi/public_html/import/current/src/Import/Monitor.php on line 15
+[16-Dec-2019 09:19:44 UTC] PHP Fatal error:  Class 'JT\Monitor' not found in /home/gaukmedi/public_html/import/current/src/Import/Monitor.php on line 15

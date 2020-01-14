@@ -1,0 +1,36 @@
+{
+    "name" : "gauk-motors-etl",
+    "description" : "Standard Transform Mapping for Gauk Motors Vertical",
+    "version" : "1.0",
+    "function" : "Provider Source Mapping",
+    "type" : "Source Mapping",
+    "key" : "ProviderSourceMapping/gauk-motors-etl",
+    "transformations" : [ 
+        {
+            "method" : "stripHtmlTags",
+            "var" : "lot_url",
+            "comment" : "",
+            "args" : [ 
+                "{{ url|trim }}"
+            ]
+        }, 
+        {
+            "var" : "description",
+            "method" : "regexReplace",
+            "comment" : "Removed Invalid Characters That Could Affect Job Posting",
+            "args" : [ 
+                "{{ description }}", 
+                "/[^\\x00-\\x7F]/", 
+                ""
+            ]
+        }, 
+        {
+            "var" : "unique_id",
+            "method" : "value",
+            "comment" : "",
+            "args" : [ 
+                "{{ url|trim }}"
+            ]
+        }
+    ]
+}

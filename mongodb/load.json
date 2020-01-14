@@ -1,0 +1,190 @@
+{
+    "type" : "struct",
+    "key" : "ProviderSourceMapping/gauk-motors-etl",
+    "name" : "gauk-motors-etl",
+    "comment" : "This is the Gauk Motors Vertical standard values.",
+    "fields" : [ 
+        {
+            "name" : "unique_id",
+            "comment" : "This is the new standard job identifier to replace 'name'",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "incrementalOp",
+            "comment" : "If this is an incremental integration, this represents what CRUD action should be taken.",
+            "validation" : [ 
+                {
+                    "method" : "isOneOf",
+                    "args" : [ 
+                        [ 
+                            "CREATE", 
+                            "UPDATE", 
+                            "DELETE"
+                        ]
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name" : "name",
+            "comment" : "name",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "auction_date",
+            "comment" : "auction_date",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "description",
+            "comment" : "description",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "manufacturer",
+            "comment" : "manufacturer",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "model",
+            "comment" : "model",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "registration",
+            "comment" : "registration",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "mileage",
+            "comment" : "mileage",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "gearbox",
+            "comment" : "gearbox",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "fuel",
+            "comment" : "fuel",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "colour",
+            "comment" : "colour",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "mot",
+            "comment" : "mot",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "estimate",
+            "comment" : "estimate",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "service_history",
+            "comment" : "service_history",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "engine_size",
+            "comment" : "engine_size",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "images",
+            "comment" : "images",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "type",
+            "comment" : "type",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }
+            ]
+        }, 
+        {
+            "name" : "lot_url",
+            "comment" : "Lot URL",
+            "validation" : [ 
+                {
+                    "method" : "isRequired"
+                }, 
+                {
+                    "method" : "isUrl"
+                }
+            ]
+        }
+    ],
+    "template" : "{#\n    This is the Standard Source Mapping Template for Gauk Motors Vertical\n#}\n{\n    \"uniqueId\" : \"{{unique_id}}\",\n{% if incrementalOp %}\"incrementalOp\": {{incrementalOp|json_encode}},{% endif %}\n    \"name\" : {{name|json_encode}},\n    \"lot_url\" : {{lot_url|json_encode}},\n    \"auction_date\" : {{auction_date|json_encode}},\n    \"description\" : {{description|json_encode}},\n    \"manufacturer\" : {{manufacturer|json_encode}},\n    \"model\": {{model|json_encode}},\n    \"registration\" : {{registration|json_encode}},\n    \"mileage\": {{mileage|json_encode}},\n    \"gearbox\" : {{gearbox|json_encode}},\n    \"fuel\" : {{fuel|json_encode}},\n    \"colour\" : {{colour|json_encode}},\n    \"mot\" : {{mot|json_encode}},\n    \"estimate\" : {{estimate|json_encode}},\n    \"service_history\" : {{service_history|json_encode}},\n    \"engine_size\" : {{engine_size|json_encode}},\n    \"type\" : {{type|json_encode}},\n    \"images\" : {{images|json_encode}} \n }"
+}

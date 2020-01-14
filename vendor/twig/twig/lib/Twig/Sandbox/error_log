@@ -1,0 +1,1 @@
+[16-Dec-2019 00:46:10 UTC] PHP Fatal error:  Interface 'Twig_Sandbox_SecurityPolicyInterface' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/Sandbox/SecurityPolicy.php on line 18

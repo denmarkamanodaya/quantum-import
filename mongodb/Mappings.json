@@ -1,0 +1,12 @@
+{
+    "name" : "gauk-motors-etl",
+    "description" : "Mappings for Gauk Motors Vertical",
+    "version" : "1.0",
+    "function" : "Provider Source Mapping",
+    "type" : "Source Mapping",
+    "profileKeys" : {
+        "extract" : "ProviderSourceMapping/gauk-motors-etl",
+        "transform" : "ProviderSourceMapping/gauk-motors-etl",
+        "load" : "ProviderSourceMapping/gauk-motors-etl"
+    }
+}

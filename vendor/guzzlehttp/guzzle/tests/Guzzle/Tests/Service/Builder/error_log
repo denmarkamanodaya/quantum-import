@@ -1,0 +1,9 @@
+[04-Dec-2019 17:08:29 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderLoaderTest.php on line 11
+[08-Dec-2019 07:47:13 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderTest.php on line 13
+[09-Dec-2019 03:22:24 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderLoaderTest.php on line 11
+[10-Dec-2019 16:12:42 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderTest.php on line 13
+[16-Dec-2019 00:32:33 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderLoaderTest.php on line 11
+[19-Dec-2019 14:21:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderTest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderTest.php on line 12

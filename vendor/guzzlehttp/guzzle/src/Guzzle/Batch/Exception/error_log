@@ -1,0 +1,1 @@
+[18-Dec-2019 00:35:07 UTC] PHP Fatal error:  Interface 'Guzzle\Common\Exception\GuzzleException' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Batch/Exception/BatchTransferException.php on line 13

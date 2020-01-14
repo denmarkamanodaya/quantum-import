@@ -1,0 +1,1 @@
+[13-Dec-2019 16:45:49 UTC] PHP Fatal error:  Interface 'Guzzle\Parser\Cookie\CookieParserInterface' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/src/Guzzle/Parser/Cookie/CookieParser.php on line 9

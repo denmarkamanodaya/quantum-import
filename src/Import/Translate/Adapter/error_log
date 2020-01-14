@@ -1,0 +1,29 @@
+[19-Oct-2019 02:58:36 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:58:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:58:36 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:58:36 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:58:36 UTC] PHP Fatal error:  Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/AbstractAdapter.php on line 13
+[19-Oct-2019 02:58:50 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:58:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/mongo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Oct-2019 02:58:50 UTC] PHP Warning:  Module 'gearman' already loaded in Unknown on line 0
+[19-Oct-2019 02:58:50 UTC] PHP Warning:  Module 'mongodb' already loaded in Unknown on line 0
+[19-Oct-2019 02:58:50 UTC] PHP Fatal error:  Class 'Import\Translate\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/JsonPacket.php on line 16
+[27-Nov-2019 21:55:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/AbstractAdapter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/AbstractAdapter.php on line 12
+[02-Dec-2019 00:16:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Translate\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/JsonPacket.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/JsonPacket.php on line 15
+[03-Dec-2019 02:55:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Translate\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/JsonPacket.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/JsonPacket.php on line 15
+[03-Dec-2019 19:54:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/AbstractAdapter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/AbstractAdapter.php on line 12
+[09-Dec-2019 03:05:15 UTC] PHP Fatal error:  Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/AbstractAdapter.php on line 13
+[13-Dec-2019 09:04:00 UTC] PHP Fatal error:  Class 'Import\Translate\Adapter\AbstractAdapter' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/JsonPacket.php on line 16
+[15-Dec-2019 00:29:58 UTC] PHP Fatal error:  Class 'Import\Log\AbstractLogable' not found in /home/gaukmedi/public_html/import/current/src/Import/Translate/Adapter/AbstractAdapter.php on line 13

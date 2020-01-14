@@ -1,0 +1,7 @@
+[02-Dec-2019 07:24:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Parser/Message/MessageParserProvider.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Parser/Message/MessageParserProvider.php on line 5
+[06-Dec-2019 10:11:08 UTC] PHP Fatal error:  Class 'Guzzle\Tests\Parser\Message\MessageParserProvider' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Parser/Message/MessageParserTest.php on line 12
+[08-Dec-2019 09:26:15 UTC] PHP Fatal error:  Class 'Guzzle\Tests\Parser\Message\MessageParserProvider' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Parser/Message/PeclHttpMessageParserTest.php on line 11
+[17-Dec-2019 16:40:29 UTC] PHP Fatal error:  Class 'Guzzle\Tests\Parser\Message\MessageParserProvider' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Parser/Message/MessageParserTest.php on line 12

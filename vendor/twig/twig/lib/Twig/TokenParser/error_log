@@ -1,0 +1,15 @@
+[11-Dec-2019 20:57:53 UTC] PHP Fatal error:  Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/Sandbox.php on line 24
+[12-Dec-2019 05:26:04 UTC] PHP Fatal error:  Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/For.php on line 25
+[13-Dec-2019 02:15:12 UTC] PHP Fatal error:  Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/Do.php on line 16
+[13-Dec-2019 03:50:57 UTC] PHP Fatal error:  Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/Flush.php on line 18
+[13-Dec-2019 11:25:33 UTC] PHP Fatal error:  Class 'Twig_TokenParser_Include' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/Embed.php on line 16
+[15-Dec-2019 00:06:11 UTC] PHP Fatal error:  Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/If.php on line 27
+[15-Dec-2019 05:41:52 UTC] PHP Fatal error:  Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/Macro.php on line 22
+[15-Dec-2019 10:29:53 UTC] PHP Fatal error:  Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/AutoEscape.php on line 31
+[16-Dec-2019 22:47:20 UTC] PHP Fatal error:  Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/From.php on line 20
+[18-Dec-2019 08:56:15 UTC] PHP Fatal error:  Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/Set.php on line 30
+[18-Dec-2019 19:06:57 UTC] PHP Fatal error:  Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/Include.php on line 23
+[19-Dec-2019 15:58:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig_TokenParser' not found in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/Filter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/twig/twig/lib/Twig/TokenParser/Filter.php on line 21

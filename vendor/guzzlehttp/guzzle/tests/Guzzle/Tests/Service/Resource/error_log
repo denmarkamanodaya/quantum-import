@@ -1,0 +1,16 @@
+[07-Dec-2019 15:56:35 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/ModelTest.php on line 13
+[11-Dec-2019 12:28:14 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/ResourceIteratorTest.php on line 13
+[12-Dec-2019 19:06:40 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/ResourceIteratorClassFactoryTest.php on line 13
+[16-Dec-2019 05:14:19 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/MapResourceIteratorFactoryTest.php on line 12
+[17-Dec-2019 02:50:26 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/MapResourceIteratorFactoryTest.php on line 12
+[17-Dec-2019 03:07:22 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/CompositeResourceIteratorFactoryTest.php on line 13
+[17-Dec-2019 20:12:53 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/ResourceIteratorClassFactoryTest.php on line 13
+[18-Dec-2019 21:59:02 UTC] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/ModelTest.php on line 13
+[19-Dec-2019 16:21:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/ResourceIteratorTest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/ResourceIteratorTest.php on line 12
+[19-Dec-2019 19:16:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/CompositeResourceIteratorFactoryTest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Resource/CompositeResourceIteratorFactoryTest.php on line 12

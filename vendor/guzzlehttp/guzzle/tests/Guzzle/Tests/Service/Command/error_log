@@ -1,0 +1,4 @@
+[19-Dec-2019 12:16:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Guzzle\Tests\GuzzleTestCase' not found in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Command/DefaultResponseParserTest.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gaukmedi/public_html/import/current/vendor/guzzlehttp/guzzle/tests/Guzzle/Tests/Service/Command/DefaultResponseParserTest.php on line 14
